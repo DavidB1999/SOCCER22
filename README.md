@@ -27,7 +27,7 @@ This folder contains the following Jupyter Notebooks: <br>
 
 
 
-The prefix number indicates the order dependency of the code within it. Running a file prefixed with 02 before all 01 files will most likely cause an error. Files with the same prefix can be run indepently from each other. <br>
+The prefix number indicates the order dependency of the code within it. Running a file prefixed with 02 before all 01 files will most likely cause an error. Files with the same prefix can be run independently  from each other. <br>
 
 For some context on the project check out my first publication on the Success-Score. I learned a lot since then though :D <br>
 DOI: https://doi.org/10.2478/ijcss-2022-0009 <br>
