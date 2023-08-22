@@ -25,7 +25,11 @@ This folder contains the following Jupyter Notebooks: <br>
 
 *06_Descriptives.ipynb* -  Descriptive statistics <br>
 
+<br>
 
+**Requirements.txt** list the package requirements for all scripts and can be used for *pip install* <br>
+
+<br>
 
 The prefix number indicates the order dependency of the code within it. Running a file prefixed with 02 before all 01 files will most likely cause an error. Files with the same prefix can be run independently  from each other. <br>
 
