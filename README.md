@@ -38,6 +38,7 @@ DOI: https://doi.org/10.1515/ijcss-2017-0005 <br>
 
 The publication, the product of this code, will be linked here as soon as it is published: 
 
+Feel free to reach out to me if there are any questions left. <br>
 
 ### References:
 Brinkjans, D., Memmert, D., Imkamp, J., & Perl, J. (2022). Success-Score in Professional Soccer – Validation of a Dynamic Key Performance Indicator Combining Space Control and Ball Control within Goalscoring Opportunities. International Journal of Computer Science in Sport, 21(2), 32–42. https://doi.org/10.2478/ijcss-2022-0009 <br>
@@ -45,4 +46,4 @@ Perl, J., Grunz, A., Memmert, D., & Gutenberg-University, J. (2013). Tactics Ana
 Perl, J., & Memmert, D. (2017). A Pilot Study on Offensive Success in Soccer Based on Space and Ball Control – Key Performance Indicators and Key to Understand Game Dynamics. International Journal of Computer Science in Sport, 16(1), 65–75. https://doi.org/10.1515/ijcss-2017-0005 <br>
 
 
-Feel free to reach out to me if there are any questions left. <br>
+
