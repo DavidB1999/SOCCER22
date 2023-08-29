@@ -3,7 +3,7 @@ This repository contains all relevant scripts from the research project **"Succe
 
 Data can unfortunately not be made publicly available. Please be aware that the code does not work without the correct data within a folder structure that resembles the one used within these scripts. An adaptation of the code to similar data should be possible with basic Python skills based on my comments. <br>
 
-Success-Scores have been calculated via SOCCER© - a match analysis tool developed by Jürgen Perl (Perl et al., 2013). An implementation of the Success-Score via Python or similar programming languages is also possible based on the formula provided in the manuscript and will be included in the future. <br>
+Success-Scores have been calculated via SOCCER© - a match analysis tool developed by Jürgen Perl (Perl et al., 2013). An implementation of the Success-Score via Python or similar programming languages is also possible and a simplist proof of concept is available here: https://github.com/DavidB1999/Success-Score <br>
 Data was made available to us in the required format, so this repository will not include any data parsing steps that would parse position data into the SOCCER©-format. The parsing procedures required are available in the repository for the more recent project SOCCER23 (https://github.com/DavidB1999/SOCCER23). Feel free to check that out as well. <br>
 
 
